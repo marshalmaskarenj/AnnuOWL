@@ -1,0 +1,3 @@
+The userobject components for AnnuOWL Grasshopper.
+The AnnuOWL folder inside the UserObject folder needs to be copied into your UserObjects folder, typically located at "C:\Users\[username]\AppData\Roaming\Grasshopper\UserObjects" to have these components available in GH.
+
